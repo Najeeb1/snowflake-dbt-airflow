@@ -271,5 +271,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Happy Data Engineering!** 🎉
-
-For questions or issues, please open a GitHub issue or reach out to the maintainers.
